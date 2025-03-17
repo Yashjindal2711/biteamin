@@ -1,0 +1,25 @@
+{
+    
+    "msg":"success",
+    "status":1,
+    "data":{
+        "department" : [
+            { "image": "", "name": "IT"},
+            { "image": "", "name": "Sales"},
+            { "image": "", "name": "Operation"},
+            { "image": "", "name": "HR"}
+        ],
+        "matching_jobs" : [
+            { "image": "", "name": "IT"},
+            { "image": "", "name": "Sales"},
+            { "image": "", "name": "Operation"},
+            { "image": "", "name": "HR"}
+        ],
+        "trending_companies" : [
+            { "image": "", "name": "IT"},
+            { "image": "", "name": "Sales"},
+            { "image": "", "name": "Operation"},
+            { "image": "", "name": "HR"}
+        ]
+    }
+}
